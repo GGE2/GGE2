@@ -1,4 +1,4 @@
-My name is Ji Hun Kim, I hope to grow with everyone!⭐</br>
+⭐ My name is Ji Hun Kim, I hope to grow with everyone!</br>
 🖥️ Samsumg SW Academy For Youth 8th (2022.07 ~ )</br>
 
 
