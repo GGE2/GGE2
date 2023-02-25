@@ -12,7 +12,6 @@
 
 
 💪 Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGE2&ayout=compact&theme=tokyonight)
 Platform
 
 
@@ -20,4 +19,6 @@ Languages
    
 
 Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGE2&ayout=compact&theme=tokyonight)
       
