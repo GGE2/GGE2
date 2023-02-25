@@ -4,6 +4,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGE2&show_icons=true&theme=radical)
   
+<a href="https://www.instagram.com/본인인스타아이디/">
+    <img 
+        src="http://img.shields.io/badge/EE4C2C?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/ge2.chef/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 💪 Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGE2&ayout=compact&theme=tokyonight)
