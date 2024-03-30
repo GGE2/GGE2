@@ -1,5 +1,5 @@
 🖥️ Samsumg SW Academy For Youth 8th (2022.07 ~ 2023.06)</br>
-⭐ Daegu Bank, Intern (2023.10.2023.11)</br>
+⭐ Daegu Bank, Intern (2023.10 ~ 2023.11)</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGE2&show_icons=true&theme=radical)
 
